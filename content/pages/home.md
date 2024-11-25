@@ -1,7 +1,7 @@
 ---
-title: Tina Cloud Starter
+title: Aixwim
 blocks:
-  - headline: Welcome to the Tina Starter
+  - headline: Welcome to the aixwim
     text: >
       ## **Editors**
 
